@@ -162,8 +162,6 @@ Feel free to check the [issues page](../../issues/).
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> I would like to thank...
 - Microverse Review Team and especially Abel Gebeyehu for professional review feedback
 - My Coding Partners, wish I could mention your names. cheers!! to you all. 
 - I, Evans, and my Family.😀
