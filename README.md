@@ -25,7 +25,7 @@
 
 # 📖 Awesome Books<a name="about-project"></a>
 
-**A simple JavaScript application to create and manage a list of books.**
+**This is a singlePage JavaScript application that create, Add, display and remove list of books from local storage.**
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -59,7 +59,7 @@
 ### Key Features <a name="key-features"></a>
 
 - **Add new books: Enter the book title and author to add a new book to the list.**
-- **Remove books: Remove books from the list when no longer needed**
+- **Remove books: Remove books from the list when is not needed**
 - **Save and remove books from localStorage**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -67,7 +67,7 @@
 <!-- Live Demo -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-<a href="https://ticoniq.github.io/awesome-book"> See Project 🚀</a>
+<a href="https://evansnyamekye.github.io/Awesome-books-ES6/">Live-Demo</a>
 
 <!-- GETTING STARTED -->
 
@@ -82,7 +82,7 @@ To get get a local copy up and running, you can follow these simple steps:
 Clone the repository to your local machine using the following command:
 
 ```sh
-  git clone git@github.com/ticoniq/Awesome-book
+https://github.com/evansnyamekye/Awesome-books-ES6.git
 ```
 Navigate to the project directory:
 
@@ -103,9 +103,9 @@ That's it! With these simple steps, you should be able to get up and running wit
 
 ### Usage
 
-To use this project, simply visit the following link: https://github.com/ticoniq/awesome-book
+To use this project, simply visit the following link: https://github.com/evansnyamekye/Awesome-books-ES6.git
 
-- **Open the <a href="https://ticoniq.github.io/awesome-book">project 🚀</a> in your web browser.**
+- **Open the <a href="https://github.com/evansnyamekye/Awesome-books-ES6.git">project 🚀</a> in your web browser.**
 
 - **Use the provided form to add books to the list.**
 
@@ -116,29 +116,17 @@ To use this project, simply visit the following link: https://github.com/ticoniq
 
 To run tests, run the following command: -->
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
 <!-- > Mention all of the collaborators of this project. -->
 
-👤 **Okolie Tochukwu**
+👤 **Evans Kofi Nyamekye**
 
-- GitHub: [@ticoniq](https://github.com/ticoniq)
-- Twitter: [@ticoniq_](https://twitter.com/ticoniq_)
-- LinkedIn: [ticoniq](https://linkedin.com/in/ticoniq)
-
+- GitHub: [evansnyamekye](https://github.com/evansnyamekye)
+- Twitter: [@nyamekye2131](https://twitter.com/nyamekye2131)
+- LinkedIn: [Evans Kofi Nyamekye](https://www.linkedin.com/in/evans-kofi-nyamekye-1980a4117/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -174,8 +162,7 @@ Feel free to check the [issues page](../../issues/).
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> I would like to thank the Microverse community for their support and guidance throughout this project. Special thanks to my peers and mentors for their constructive feedback and advice.
+- I would like thank Microverse Review Team and especially Abel Gebeyehu for professional review feedback My Coding Partners, wish I could mention your names. cheers!! to you all. I, Evans, and my Family.😀
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
