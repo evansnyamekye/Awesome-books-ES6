@@ -67,7 +67,7 @@
 <!-- Live Demo -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-<a href="https://evansnyamekye.github.io/Awesome-books-ES6/"></a>
+<a href="https://evansnyamekye.github.io/Awesome-books-ES6/">live-demo</a>
 
 <!-- GETTING STARTED -->
 
