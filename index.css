@@ -141,12 +141,9 @@ button {
   background: #7b2d2d;
   padding: 0 20px;
   height: 30px;
-  width: 100px;
   border-style: none;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   text-align: center;
-
-  /* box-shadow: 5px 5px #b4b0b0; */
   cursor: pointer;
   color: #fff;
 }
@@ -184,6 +181,7 @@ button:hover {
 
 /* contact */
 .contact {
+  display: none;
   width: 500px;
   margin: auto;
   padding: 30px 0;
