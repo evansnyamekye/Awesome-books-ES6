@@ -1,9 +1,8 @@
-# Awesome-books-ES6
 
 <a name="readme-top"></a>
 
 # 📗 Table of Contents
-
+# Awesome-books-ES6
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
