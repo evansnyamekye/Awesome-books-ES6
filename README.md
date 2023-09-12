@@ -1,6 +1,3 @@
-GitHub: evansnyamekye
-Twitter: @nyamekye2131
-LinkedIn: Evans Kofi Nyamekye
 <a name="readme-top"></a>
 
 # 📗 Table of Contents
